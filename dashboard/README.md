@@ -66,3 +66,12 @@ The dashboard enables:
 - Monitoring of seasonal trends
 - Evaluation of property size demand
 - Faster strategic decision-making
+
+  ---
+
+## Dashboard Preview
+
+![Dashboard Overview](Real estate market analytics.jpg)
+
+![Dashboard Overview](Market detailing.jpg)
+
