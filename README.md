@@ -95,3 +95,61 @@ Outlier removal was critical due to:
 - Unusual room counts
 
 Percentile-based filtering was selected instead of hard thresholds to maintain statistical robustness.
+
+  ---
+
+# Task 1 — Listing Activity Duration Analysis
+
+## Key Findings
+
+### Most Common Categories
+
+- The most frequent category in both regions is typically **31–90 days**, 
+  indicating that most properties are sold within one quarter.
+- Listings exceeding 180 days represent a smaller but stable segment of the market.
+
+### Property Characteristics and Activity Duration
+
+- Smaller apartments tend to sell faster.
+- Lower average price per square meter is associated with shorter exposure time.
+- Listings with fewer rooms are more common in faster-selling categories.
+- Large properties with higher prices remain active longer.
+
+### Regional Differences
+
+- Saint Petersburg generally shows higher price per square meter.
+- The Leningrad Region demonstrates longer average exposure time.
+- Larger apartments are more common in the Leningrad Region.
+
+## Business Implications
+
+- Focus marketing efforts on 1–2 room apartments.
+- Competitive pricing significantly reduces listing duration.
+- Region-specific strategies are required.
+
+  ---
+
+# Task 2 — Seasonality Analysis
+
+## Key Findings
+
+### Publication Activity
+
+- Peak listing publication typically occurs in spring and early autumn.
+- Lowest activity is observed in winter months.
+
+### Listing Removal (Proxy for Sales)
+
+- Removal activity peaks shortly after publication peaks.
+- There is partial alignment between publication and sales periods.
+
+### Seasonal Impact on Price and Area
+
+- Average price per square meter slightly increases during high-demand months.
+- Larger apartments are more frequently listed in spring.
+
+## Business Implications
+
+- Launch marketing campaigns before seasonal peaks.
+- Increase advertising budget in spring and early autumn.
+- Adjust pricing strategy based on seasonal demand.
