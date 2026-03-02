@@ -61,3 +61,37 @@ The analysis is based on the `real_estate` database schema.
 - DBeaver
 - DataLens
 - GitHub
+
+  ---
+
+- ## Data Cleaning
+
+Before conducting the analysis, extreme values (outliers) were removed using percentile-based filtering.
+
+### Approach
+
+- 99th percentile was used to filter extreme values for:
+  - Total area
+  - Number of rooms
+  - Number of balconies
+  - Ceiling height (upper bound)
+
+- 1st percentile was used to remove suspiciously low ceiling heights.
+
+Approximately 19% of records were filtered out.
+
+### Why It Matters
+
+Removing outliers ensures:
+- More accurate exposure time analysis
+- Reliable segment comparison
+- Better business decision-making
+
+  ## Data Quality Considerations
+
+Outlier removal was critical due to:
+- Extremely large apartments distorting averages
+- Unrealistic ceiling heights
+- Unusual room counts
+
+Percentile-based filtering was selected instead of hard thresholds to maintain statistical robustness.
