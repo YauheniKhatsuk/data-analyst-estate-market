@@ -67,6 +67,14 @@ The dashboard enables:
 - Evaluation of property size demand
 - Faster strategic decision-making
 
+## BI & Visualization Skills Demonstrated
+
+- Interactive dashboard development
+- Metric design and business logic implementation
+- Advanced filtering (time granularity & settlement types)
+- Top-N ranking analysis
+- Visual storytelling for decision-making
+
   ---
 
 ## Dashboard Preview
@@ -74,4 +82,13 @@ The dashboard enables:
 ![Dashboard Overview](Real estate market analytics.jpg)
 
 ![Dashboard Overview](Market detailing.jpg)
+
+  ---
+  
+## Interactive Dashboard
+
+The dashboard was built in Yandex DataLens.
+
+Public link: [View Dashboard](https://datalens.yandex/mahghw8lgcmy7)
+
 
